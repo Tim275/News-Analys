@@ -1,3 +1,7 @@
+## Description
+
+news source: https://newsapi.org/docs/get-started#top-headlines
+
 ## Architecture Diagramm
 
 ![image](https://github.com/Tim275/News-Analys/assets/117520669/4a9a9505-a67c-4e5c-a9bc-350241231dfe)
