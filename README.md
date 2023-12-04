@@ -1,6 +1,6 @@
 ## Description
 
-news source: https://newsapi.org/docs/get-started#top-headlines
+news API source: https://newsapi.org/docs/get-started#top-headlines
 
 ## Architecture Diagramm
 
