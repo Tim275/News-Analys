@@ -1,3 +1,16 @@
+## Frontend (results)
+
+![image](https://github.com/Tim275/News-Analys/assets/117520669/4a9a9505-a67c-4e5c-a9bc-350241231dfe)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
